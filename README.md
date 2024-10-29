@@ -7,6 +7,13 @@
 ### Mission
 BioinfCamp is committed to delivering impactful bioinformatics solutions and fostering scientific growth through education.
 
+### Central Repository Hub
+This repository serves as the central hub for BioinfCamp, where users can access resources, project templates, and various bioinformatics projects directly associated with BioinfCamp. Here, you will find links to repositories containing practical examples, templates, and bioinformatics solutions. 
+
+For example:
+- **[BIC-RNA Project](https://github.com/Roohparvar/BIC-RNA)**  
+  A project focused on designing RNA sequences, complete with resources and scripts for RNA bioinformatics.
+
 ### Business Information
 - **Business License**: 0467909474
 - **Website**: [BioinfCamp.com](http://bioinfcamp.com)
