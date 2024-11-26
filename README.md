@@ -18,7 +18,7 @@ For example:
   A collection of 10 simple Python exercises designed for students and beginners interested in bioinformatics.  
 
 - **[BIC-PCP Project](https://github.com/Roohparvar/BIC-PCP)**  
-  BIC-PC is a server for calculating the physical and chemical properties of a given protein sequence.  
+  BIC-PC is a server for calculating the physical and chemical properties of given protein sequences.
 
 ### Business Information
 - **Business License**: 0467909474
